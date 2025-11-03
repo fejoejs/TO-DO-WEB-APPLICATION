@@ -1,9 +1,8 @@
-# 📝 SCT_WD_4
 
 # ✅ ULTIMATE TO-DO WEB APPLICATION
 
 ## 📌 Overview
-This project is a **Responsive and Interactive To-Do List Web App** developed as part of the SkillCraft Technology Web Development Internship. It allows users to manage their tasks efficiently with a modern interface and productivity-focused features.
+This project is a **Responsive and Interactive To-Do List Web App** . It allows users to manage their tasks efficiently with a modern interface and productivity-focused features.
 
 ## ✨ Features
 
