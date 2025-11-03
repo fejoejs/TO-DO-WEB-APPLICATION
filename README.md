@@ -23,7 +23,7 @@ This project is a **Responsive and Interactive To-Do List Web App** . It allows 
 
 ## 🚀 How to Run the Project
 
-🔗 [Click here to view the live app](https://fejoejs.github.io/SCT_WD_4/)  
+🔗 [Click here to view the live app](https://fejoejs.github.io/TO-DO-WEB-APPLICATION/)  
 
 🛠️ Built with ❤️ by **Fejoe**
 
